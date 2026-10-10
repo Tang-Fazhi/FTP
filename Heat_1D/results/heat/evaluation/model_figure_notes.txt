@@ -1,0 +1,9 @@
+Model test-result figure definitions
+====================================
+Core conclusion: all methods are evaluated against the same exact heat-equation solution, while their pointwise error distributions remain directly comparable.
+Representative run: the evaluated seed closest to each method's median relative L2 error; the smaller seed breaks numerical ties.
+Selected runs: Standard_PINN=seed 1, NTK_LM=seed 7, AL_PINN=seed 4, HARMONIC=seed 2, ConFIG=seed 7, FTP=seed 0.
+Evaluation grid: 201 spatial points x 201 temporal points.
+Prediction scale: shared linear limits across the exact solution and all representative predictions.
+Absolute-error scale: shared logarithmic; values below 9.062274e-09 are shown at the color-scale floor.
+Processing: no spatial smoothing or local image adjustment is applied.

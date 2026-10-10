@@ -1,0 +1,5 @@
+Problem: heat
+method: Standard_PINN
+seed: 6
+elapsed time: 44.753812313079834
+peak GPU memory: 17.902344 MiB

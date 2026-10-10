@@ -1,0 +1,50 @@
+{
+  "problem": "steady_navier_stokes_2d_kovasznay",
+  "equations": [
+    "u*u_x+v*u_y+p_x-nu*(u_xx+u_yy)=0",
+    "u*v_x+v*v_y+p_y-nu*(v_xx+v_yy)=0",
+    "u_x+v_y=0"
+  ],
+  "reynolds_number": 40.0,
+  "viscosity": 0.025,
+  "domain": {
+    "x": [
+      0.0,
+      1.0
+    ],
+    "y": [
+      0.0,
+      1.0
+    ]
+  },
+  "boundary": "exact u,v on four edges; one pressure reference",
+  "pressure_point": [
+    1.0,
+    0.0
+  ],
+  "pressure_value": 0.4272428625854253,
+  "method": "ConFIG",
+  "seed": 8,
+  "steps": 20000,
+  "width": 30,
+  "depth": 3,
+  "parameter_count": 2043,
+  "dtype": "float64",
+  "sampling_scheme": "cell_centered_interior_and_deduplicated_endpoint_edges",
+  "interior_points": 256,
+  "boundary_points_per_edge": 9,
+  "boundary_point_count": 32,
+  "condition_residual_count": 65,
+  "physics_residual_count": 768,
+  "residual_normalization": "each vector divided by sqrt(its scalar residual count)",
+  "loss_tol": 1e-07,
+  "config_learning_rate": 0.001,
+  "config_final_learning_rate": 0.0001,
+  "ftp_warmup_adam_steps": 0,
+  "ftp_warmup_lbfgs_max_iter": 0,
+  "threads": 1,
+  "device": "NVIDIA A800 80GB PCIe",
+  "torch_version": "2.8.0+cu128",
+  "initial_parameters_sha256": "1bf77769dc38ebc5212dc307563a52d7b1533d32f1ea0ea866df8dad3e76cd88",
+  "sampling_sha256": "31b78b0d4e763e23d246df45e595bd8c8fce5054af468d678ef7e83e89e6b4cf"
+}

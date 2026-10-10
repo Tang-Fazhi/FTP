@@ -1,0 +1,17 @@
+{
+  "status": "completed",
+  "method": "FTP",
+  "seed": 6,
+  "converged": true,
+  "final_loss_c": 1.0093860676758957e-17,
+  "final_loss_r": 9.219487070749419e-08,
+  "final_loss": 9.219487071758805e-08,
+  "loss_records": 19,
+  "elapsed_time_s": 21.254517175257206,
+  "method_reported_time_s": 7.436342019587755,
+  "warmup_time_s": 13.810133200138807,
+  "peak_gpu_bytes": 19352231424,
+  "warmup_peak_gpu_bytes": 24206336,
+  "saved_parameters_sha256": "cb3923900c101f06e1b08706ea18884670fc2fcc104053caa879e83364d43011",
+  "warnings": []
+}

@@ -1,0 +1,17 @@
+{
+  "status": "completed",
+  "method": "AL_PINN",
+  "seed": 0,
+  "converged": false,
+  "final_loss_c": 0.005645575709207465,
+  "final_loss_r": 0.028176160151883407,
+  "final_loss": 0.03382173586109087,
+  "loss_records": 20000,
+  "elapsed_time_s": 176.20236855745316,
+  "method_reported_time_s": 176.1978588104248,
+  "warmup_time_s": 0.0,
+  "peak_gpu_bytes": 50274304,
+  "warmup_peak_gpu_bytes": 0,
+  "saved_parameters_sha256": "4cdd9bb24ea956a1965da9ea147c90d165f198a1896adca063af7f96558128e8",
+  "warnings": []
+}

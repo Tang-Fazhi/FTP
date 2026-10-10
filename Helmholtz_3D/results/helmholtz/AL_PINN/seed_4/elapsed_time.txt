@@ -1,0 +1,5 @@
+Problem: 3D acoustic Helmholtz
+method: AL_PINN
+seed: 4
+elapsed time: 182.7100705318153
+peak GPU memory: 47.946289 MiB

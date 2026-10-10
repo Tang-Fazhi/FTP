@@ -1,0 +1,17 @@
+{
+  "status": "completed",
+  "method": "HARMONIC",
+  "seed": 3,
+  "converged": false,
+  "final_loss_c": 1.1409154138553263e-06,
+  "final_loss_r": 0.001292718292719726,
+  "final_loss": 0.0012938592081335814,
+  "loss_records": 20000,
+  "elapsed_time_s": 226.93160423263907,
+  "method_reported_time_s": 226.92540669441223,
+  "warmup_time_s": 0.0,
+  "peak_gpu_bytes": 79118848,
+  "warmup_peak_gpu_bytes": 0,
+  "saved_parameters_sha256": "e91c31082dcc2ec2b5bc2f5a88fd05d4a1bf5e9d7535fa561674cc8aa643a1be",
+  "warnings": []
+}

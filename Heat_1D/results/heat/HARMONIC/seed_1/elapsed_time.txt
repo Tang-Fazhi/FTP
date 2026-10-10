@@ -1,0 +1,5 @@
+Problem: heat
+method: HARMONIC
+seed: 1
+elapsed time: 49.60181975364685
+peak GPU memory: 17.512695 MiB

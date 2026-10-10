@@ -1,0 +1,5 @@
+Problem: heat
+method: NTK_LM
+seed: 7
+elapsed time: 122.62005758285522
+peak GPU memory: 24.823242 MiB

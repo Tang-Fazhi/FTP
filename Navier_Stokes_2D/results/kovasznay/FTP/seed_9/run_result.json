@@ -1,0 +1,11 @@
+{
+  "status": "completed",
+  "loss_c": 5.633121855113718e-15,
+  "loss_r": 9.944475493933576e-08,
+  "loss": 9.944476057245761e-08,
+  "reached_loss_tol": true,
+  "history_records": 16,
+  "elapsed_seconds": 18.32587977591902,
+  "warmup_seconds": 15.064951376058161,
+  "peak_memory_bytes": 3022579712
+}

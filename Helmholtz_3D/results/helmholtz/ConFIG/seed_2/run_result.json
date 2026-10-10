@@ -1,0 +1,17 @@
+{
+  "status": "completed",
+  "method": "ConFIG",
+  "seed": 2,
+  "converged": false,
+  "final_loss_c": 7.922903457601892e-06,
+  "final_loss_r": 0.0047625654644789794,
+  "final_loss": 0.004770488367936581,
+  "loss_records": 20000,
+  "elapsed_time_s": 214.87650674209,
+  "method_reported_time_s": 214.8713994026184,
+  "warmup_time_s": 0.0,
+  "peak_gpu_bytes": 50276864,
+  "warmup_peak_gpu_bytes": 0,
+  "saved_parameters_sha256": "16580ff3ad950c8ae8314d18e6a2cd9f7eca6b19c9b58b1036569ce86af269fc",
+  "warnings": []
+}

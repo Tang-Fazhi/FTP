@@ -1,0 +1,12 @@
+{
+  "formal_seed_set": true,
+  "criterion": "Lower median and p90 relative L2 than the best complete baseline, with >=8/10 paired wins",
+  "criterion_met": true,
+  "baseline": "NTK_LM",
+  "paired_seeds": 10,
+  "ftp_wins": 10,
+  "ftp_median_relative_l2": 6.334386898919702e-06,
+  "baseline_median_relative_l2": 0.00010186634480786896,
+  "ftp_p90_relative_l2": 8.97935413652877e-06,
+  "baseline_p90_relative_l2": 0.00012341079519236867
+}

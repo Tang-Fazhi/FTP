@@ -1,0 +1,19 @@
+{
+  "status": "completed",
+  "method": "Standard_PINN",
+  "seed": 0,
+  "converged": false,
+  "final_loss_c": 0.00034671986074632003,
+  "final_loss_r": 0.0004677579949246356,
+  "final_loss": 0.0008144778556709556,
+  "loss_records": 20302,
+  "elapsed_time_s": 183.90500523895025,
+  "method_reported_time_s": 182.69405007362366,
+  "warmup_time_s": 0.0,
+  "peak_gpu_bytes": 56023552,
+  "warmup_peak_gpu_bytes": 0,
+  "saved_parameters_sha256": "2edb71b673407b4ecc1eb4a9344673745f2c1463af8822c539047627e17cc020",
+  "warnings": [
+    "Attempting to run cuBLAS, but there was no current CUDA context! Attempting to set the primary context... (Triggered internally at /pytorch/aten/src/ATen/cuda/CublasHandlePool.cpp:181.)"
+  ]
+}

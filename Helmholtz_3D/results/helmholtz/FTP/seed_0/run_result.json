@@ -1,0 +1,19 @@
+{
+  "status": "completed",
+  "method": "FTP",
+  "seed": 0,
+  "converged": true,
+  "final_loss_c": 2.5273602688643983e-16,
+  "final_loss_r": 9.269298128503063e-08,
+  "final_loss": 9.269298153776665e-08,
+  "loss_records": 24,
+  "elapsed_time_s": 26.064508851617575,
+  "method_reported_time_s": 12.774325419217348,
+  "warmup_time_s": 13.281709630042315,
+  "peak_gpu_bytes": 19353310208,
+  "warmup_peak_gpu_bytes": 24205312,
+  "saved_parameters_sha256": "fa9b221555031e4eef5470b1533e7de897421e19ec4a5f6812a6c8db7170c23c",
+  "warnings": [
+    "Dynamo does not know how to trace the builtin `time.perf_counter.` This function is either a Python builtin (e.g. _warnings.warn) or a third-party C/C++ Python extension (perhaps created with pybind).\nIf it is a Python builtin, please file an issue on GitHub so the PyTorch team can add support for it and see the next case for a workaround.\nIf it is a third-party C/C++ Python extension, please either wrap it into a PyTorch-understood custom operator (see https://pytorch.org/tutorials/advanced/custom_ops_landing_page.html for more details) or, if it is traceable, use `torch.compiler.allow_in_graph`."
+  ]
+}

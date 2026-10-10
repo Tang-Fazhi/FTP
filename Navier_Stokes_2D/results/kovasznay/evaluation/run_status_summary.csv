@@ -1,0 +1,7 @@
+method,requested,completed,failed,missing_or_incomplete,reached_loss_tol,convergence_rate,accuracy_pass,accuracy_pass_rate
+Standard_PINN,10,10,0,0,0,0.0,0,0.0
+NTK_LM,10,10,0,0,10,1.0,0,0.0
+AL_PINN,10,10,0,0,0,0.0,0,0.0
+HARMONIC,10,10,0,0,0,0.0,0,0.0
+ConFIG,10,10,0,0,0,0.0,0,0.0
+FTP,10,10,0,0,10,1.0,10,1.0

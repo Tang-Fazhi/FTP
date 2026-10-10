@@ -1,0 +1,5 @@
+Problem: heat
+method: ConFIG
+seed: 3
+elapsed time: 48.0588002204895
+peak GPU memory: 17.299805 MiB

@@ -1,0 +1,7 @@
+method,requested,available_histories,missing_histories,records_min,records_median,records_max,ftp_warmup_histories
+Standard_PINN,10,10,0,20291,20500.0,20501,0
+NTK_LM,10,10,0,23,27.0,29,0
+AL_PINN,10,10,0,20000,20000.0,20000,0
+HARMONIC,10,10,0,20000,20000.0,20000,0
+ConFIG,10,10,0,20000,20000.0,20000,0
+FTP,10,10,0,15,16.0,21,10

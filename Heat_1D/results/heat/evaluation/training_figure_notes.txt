@@ -1,0 +1,7 @@
+Training comparison definitions
+===============================
+Independent runs: 10 random seeds (0, 1, 2, 3, 4, 5, 6, 7, 8, 9).
+Center and spread: median and interquartile range across seeds.
+Loss alignment: each phase is independently normalized to [0, 1]; curves are interpolated in log-loss space.
+Warm-up: optimizes the condition loss only. The warm-up total loss therefore equals the condition loss; PDE loss is not evaluated.
+Training time: elapsed method-training time saved by main.py; the shared warm-up is excluded.

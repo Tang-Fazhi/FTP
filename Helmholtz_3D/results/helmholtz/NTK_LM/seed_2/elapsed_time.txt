@@ -1,0 +1,5 @@
+Problem: 3D acoustic Helmholtz
+method: NTK_LM
+seed: 2
+elapsed time: 15.61011392250657
+peak GPU memory: 19442.788574 MiB

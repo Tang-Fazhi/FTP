@@ -1,0 +1,17 @@
+{
+  "status": "completed",
+  "method": "Standard_PINN",
+  "seed": 5,
+  "converged": false,
+  "final_loss_c": 0.0002876945203505811,
+  "final_loss_r": 0.0002805133538019871,
+  "final_loss": 0.0005682078741525682,
+  "loss_records": 20307,
+  "elapsed_time_s": 200.0743009187281,
+  "method_reported_time_s": 200.06801891326904,
+  "warmup_time_s": 0.0,
+  "peak_gpu_bytes": 56040448,
+  "warmup_peak_gpu_bytes": 0,
+  "saved_parameters_sha256": "ffd68fa0d82e67cf3aa1c88e20b025879e8d7fe9252c676d9a0c5c1f23af7e4c",
+  "warnings": []
+}

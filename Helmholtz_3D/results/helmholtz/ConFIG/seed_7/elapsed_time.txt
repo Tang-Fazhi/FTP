@@ -1,0 +1,5 @@
+Problem: 3D acoustic Helmholtz
+method: ConFIG
+seed: 7
+elapsed time: 215.31313269212842
+peak GPU memory: 47.947754 MiB

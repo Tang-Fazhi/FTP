@@ -1,0 +1,5 @@
+Problem: 3D acoustic Helmholtz
+method: HARMONIC
+seed: 0
+elapsed time: 219.7080487050116
+peak GPU memory: 75.452637 MiB

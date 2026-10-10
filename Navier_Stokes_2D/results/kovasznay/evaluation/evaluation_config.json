@@ -1,0 +1,42 @@
+{
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "methods": [
+    "Standard_PINN",
+    "NTK_LM",
+    "AL_PINN",
+    "HARMONIC",
+    "ConFIG",
+    "FTP"
+  ],
+  "grid_size": 81,
+  "boundary_points_per_edge": 81,
+  "pde_grid_size": 33,
+  "grid_type": "cell_centres",
+  "velocity_relative_l2_threshold": 0.001,
+  "boundary_velocity_rms_threshold": 0.0001,
+  "field_aggregation": "mean prediction and mean absolute error over each method's completed seeds",
+  "common_completed_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "plots_generated": true
+}

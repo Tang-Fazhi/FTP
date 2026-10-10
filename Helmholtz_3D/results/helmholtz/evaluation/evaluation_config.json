@@ -1,0 +1,30 @@
+{
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "methods": [
+    "Standard_PINN",
+    "NTK_LM",
+    "AL_PINN",
+    "HARMONIC",
+    "ConFIG",
+    "FTP"
+  ],
+  "volume_points_per_axis": 81,
+  "boundary_points_per_axis": 81,
+  "pde_points_per_axis": 17,
+  "volume_grid": "cell_centres",
+  "boundary_grid": "six face cell centres",
+  "relative_l2_threshold": 0.001,
+  "boundary_rms_threshold": 0.0001,
+  "slice_seed": 0
+}

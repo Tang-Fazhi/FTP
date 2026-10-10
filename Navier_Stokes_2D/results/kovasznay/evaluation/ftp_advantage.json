@@ -1,0 +1,15 @@
+{
+  "formal_seed_set": true,
+  "criterion_met": true,
+  "criterion": "All 10 FTP runs complete; lower median and P90 velocity relative L2 than the best complete baseline, with at least 8/10 paired wins",
+  "baseline": "NTK_LM",
+  "paired_runs": 10,
+  "ftp_wins": 10,
+  "ftp_paired_median": 4.388407326187238e-05,
+  "baseline_paired_median": 0.00018603690985803212,
+  "ftp_paired_p90": 5.0423223625954426e-05,
+  "baseline_paired_p90": 0.00025631028982889503,
+  "baseline_complete_median": 0.00018603690985803212,
+  "baseline_complete_p90": 0.00025631028982889503,
+  "reason": "Complete formal comparison"
+}

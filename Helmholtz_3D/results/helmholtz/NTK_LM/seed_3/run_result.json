@@ -1,0 +1,17 @@
+{
+  "status": "completed",
+  "method": "NTK_LM",
+  "seed": 3,
+  "converged": true,
+  "final_loss_c": 1.7057048257524016e-08,
+  "final_loss_r": 7.610133228793052e-08,
+  "final_loss": 9.315838054545454e-08,
+  "loss_records": 68,
+  "elapsed_time_s": 16.588412180542946,
+  "method_reported_time_s": 16.581742525100708,
+  "warmup_time_s": 0.0,
+  "peak_gpu_bytes": 20387241472,
+  "warmup_peak_gpu_bytes": 0,
+  "saved_parameters_sha256": "7e2e3e639472d7af53eecef9fc9f55f3bc5ef49fea555f8fe06b58c1d7678bb8",
+  "warnings": []
+}

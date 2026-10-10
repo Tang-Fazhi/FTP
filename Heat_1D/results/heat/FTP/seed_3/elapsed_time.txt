@@ -1,0 +1,5 @@
+Problem: heat
+method: FTP
+seed: 3
+elapsed time: 155.52377581596375
+peak GPU memory: 23.190918 MiB

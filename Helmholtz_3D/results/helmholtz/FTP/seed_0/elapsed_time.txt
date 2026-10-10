@@ -1,0 +1,5 @@
+Problem: 3D acoustic Helmholtz
+method: FTP
+seed: 0
+elapsed time: 26.064508851617575
+peak GPU memory: 18456.754883 MiB
